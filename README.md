@@ -1,2 +1,2 @@
-# golangCodes
-Go practice codes
+# typescript
+typescript codes
